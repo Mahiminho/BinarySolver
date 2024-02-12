@@ -8,17 +8,15 @@ Also, the code has a significant number of unoptimized functions in the modules,
 <h2>How does it work?</h2>
 <p>In order to use the program, you need to open the main.py file and change the data that is already written in</p>
 <p>
-    <code>
-        module_task1.task1("Що прийнято називати основою системи числення:")
-        module_task2.task2("2712,663 134,223 110001110010101,10111001")
-        module_task3.task3("56,455 2343167,64")
-        module_task4.task4("315,783 317712,56 123321,21 1010,10201 3456,345609")
-        module_task5.task5("275+333 426–222")
-        module_task6.task6("295,4301")
-        module_task7.task7("1010,11011*10+11 0,00001001*10+101")
-        module_task8.task8("А=-0,101010 В=+0,000111")
-        module_task9.task9("А=-0,101010*10-101 В=-0,000111*10-011")
-    </code>
+<code>module_task1.task1("Що прийнято називати основою системи числення:")
+module_task2.task2("2712,663 134,223 110001110010101,10111001")
+module_task3.task3("56,455 2343167,64")
+module_task4.task4("315,783 317712,56 123321,21 1010,10201 3456,345609")
+module_task5.task5("275+333 426–222")
+module_task6.task6("295,4301")
+module_task7.task7("1010,11011*10+11 0,00001001*10+101")
+module_task8.task8("А=-0,101010 В=+0,000111")
+module_task9.task9("А=-0,101010*10-101 В=-0,000111*10-011")</code>
 </p>
 <p>to your own data, according to your version of the task (<i>Enter your values according to the template below or the template you are changing!</i>). 
 Then run the program and look at the generated file OOFK_RGR.txt, where you will find the ready-made solutions to your tasks.</p>
